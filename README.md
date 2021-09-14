@@ -1,4 +1,4 @@
-#Research project on high potential of Salvatore Ferragamo S.p.A:
+Research project on high potential of Salvatore Ferragamo S.p.A:
 
 * Quick financial analysis
 * TikT0k is a mistake
