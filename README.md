@@ -1,2 +1,6 @@
-# black_scholes
-Black Scholes for European options Call/Put with Greeks for Italian luxury house
+Research project on Salvatore Ferragamo S.p.A:
+
+* Financial analysis
+* TikT0k is a mistake
+* Black Scholes for European options 
+* Step by step, Call/Put & Greeks
