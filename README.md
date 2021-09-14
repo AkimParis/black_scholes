@@ -4,3 +4,5 @@ Research project on Salvatore Ferragamo S.p.A:
 * TikT0k is a mistake
 * Black Scholes for European options 
 * Step by step, Call/Put & the Greeks
+
+Black Scholes and Greeks implemented in Python and in C++
